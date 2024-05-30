@@ -40,7 +40,7 @@ const HeroSection = () => {
                         </span>
                         <p className=" mt-8 text-base sm:text-lg m d:text-xl mb-6">Slide down to know more about me!</p>
                         <Link
-                            href="https://docs.google.com/document/d/1qUs6m7TJX0bkA4GgH9fHW0PRz7l3SG9l/edit?usp=sharing&ouid=114509184187451220050&rtpof=true&sd=true"
+                            href="https://drive.google.com/file/d/1cDFFbcOx-CvniIyY9lf7zmrf-FKlAvtY/view?usp=sharing"
                             className="px-6 inline-block py-3 rounded-full border-2 border-pink-500 hover:bg-pink-400">
                         View my resume
                         </Link>
