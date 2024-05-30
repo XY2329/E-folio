@@ -13,7 +13,7 @@ const TAB_DATA = [
                 <li><b>Web Development:</b> HTML, CSS, React, Next, Vite</li>
                 <li><b>Database Management:</b> SQL, NoSQL</li>
                 <li><b>Data Analysis:</b> Data Visualisation, Machine Learning</li>
-                <li><b>Cyber Security:</b> Pentest, Write security assessment report</li>
+                <li><b>Cyber Security:</b> Pentest, Security assessment report writing</li>
                 <li><b>Others:</b> Dart</li>
 
 
