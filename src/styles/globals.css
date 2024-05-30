@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-color: #000000; /* Black text */
+  --background-color: #ffffff; /* White background */
+}
+
+body {
+  color: var(--foreground-color);
+  background-color: var(--background-color);
+}
+
+/* Dark mode variables */
+body.dark {
+  --foreground-color: #ffffff; /* White text */
+  --background-color: #000000; /* Black background */
+}
+
+.scrolled-header {
+  background-color: rgba(0, 0, 0, 0.05); /* Semi-transparent white background */
+  backdrop-filter: blur(35px); /* Apply a blur effect */
+}
+
+/* Google web: let the scrollbar display none */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Firefox, edge: let the scroll bar display none */
+::-webkit-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
