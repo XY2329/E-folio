@@ -19,7 +19,7 @@ const Contact = () => {
                     <a href="https://github.com/XY2329" target="_blank" rel="noopener noreferrer">
                         <GitHubIcon className="text-gray-600 hover:text-blue-800" style={{ fontSize: 40 }} />
                     </a>
-                    <a href="mailto:seexy1127@gmail.com" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:xiao_yin1127@hotmail.com" target="_blank" rel="noopener noreferrer">
                         <EmailIcon className="text-gray-600 hover:text-blue-500" style={{ fontSize: 40 }} />
                     </a>
                 </div>
