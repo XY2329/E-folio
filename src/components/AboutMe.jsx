@@ -9,19 +9,19 @@ const TAB_DATA = [
         id: "skills",
         content: (
           <ul className="list-disc pl-2">
-                <li><b>Programming Languages:</b> Python, Java, JavaScript</li>
-                <li><b>Web Development:</b> HTML, CSS, React, Next, Vite</li>
+                <li><b>Programming Languages:</b> Java, JavaScript, Python</li>
+                <li><b>Web Development:</b> React, Next, Vite, CSS, HTML</li>
                 <li><b>Database Management:</b> SQL, NoSQL</li>
                 <li><b>Data Analysis:</b> Data Visualisation, Machine Learning</li>
                 <li><b>Cyber Security:</b> Pentest, Security assessment report writing</li>
-                <li><b>Others:</b> Dart</li>
+
 
 
 
 
 
 <br></br>
-<b>Tools:</b> VSCode, Android Studio, Flutter, Kali Linux, Figma, Github, Cloudera
+<b>Tools:</b> VSCode, Kali Linux, Figma, Github, Cloudera, Google Colab
           </ul>
         ),
     },

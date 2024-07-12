@@ -41,7 +41,7 @@ const HeroSection = () => {
               Slide down to know more about me!
             </p>
             <a
-              href="https://drive.google.com/file/d/1MxELiWopw4mmbzID1wAeVqhC3_TwomCb/view?usp=sharing"
+              href="https://drive.google.com/file/d/1d-q7e9PPALGT0RfgeEnSSoSbCPxPOGxx/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 inline-block py-3 rounded-full border-2 border-pink-500 hover:bg-pink-400"
